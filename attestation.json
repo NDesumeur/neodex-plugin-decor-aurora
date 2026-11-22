@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decoraurora",
+  "repo": "NDesumeur/neodex-plugin-decor-aurora",
+  "version": "1.0.0",
+  "sha256": "473db1066df5787633b8d684ec2925822f82c770d06f59d5bed6c0dec6e7cefc",
+  "approvedAt": "2026-11-22T19:05:25.678Z",
+  "neobase": ">=4.1.0",
+  "signature": "nW0yq5jYtGuBtjRIia3zC6JmAOl6AOLXkpNr+Mi/C3SquV3nd4l/ffv0pl9UcV3Yzv69q2I+qlzjakuupE8LDw=="
+}
